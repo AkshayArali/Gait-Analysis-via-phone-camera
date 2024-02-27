@@ -1,0 +1,1 @@
+> This project deals with Gait analysis, also known as walking or motion analysis, is a comprehensive evaluation of the way an individual stands and walks. This analysis can help: Identify the source of muscle, nerve or skeletal problems. Discover the source of a patient's pain while standing or walking.
